@@ -1,0 +1,29 @@
+#field
+{
+    width: 80%;
+    margin-top: 25px;
+}
+#send
+{
+    width: 15%;
+    margin-top: 25px;
+    
+}
+input:focus
+{
+    border: 1px solid red !important;
+}
+#utente
+{
+    display: flex;
+    justify-content: center;
+    font-size: 35px;
+    margin-top: 10px;
+}
+#content
+{
+    margin-top: 25px;
+    border:  1px solid black;
+    height: 200px;
+    overflow: auto;
+}
